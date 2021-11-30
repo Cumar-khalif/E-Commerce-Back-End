@@ -3,7 +3,7 @@ const apiRoutes = require('./api');
 
 router.use('/api', apiRoutes);
 // added async...
-router.use(async (req, res) => {
+router.use((req, res) => {
   res.send("<h1>Wrong Route!</h1>")
 });
 
