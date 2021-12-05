@@ -1,6 +1,6 @@
-# 13 Object-Relational Mapping (ORM): E-Commerce Back End
+#  Object-Relational Mapping (ORM): E-Commerce Back End
 
-## Your Task
+##  Task
 For this application i have built the back end for an e-commerce site by modifying starter code. I have configure a working Express.js API to use Sequelize to interact with a MySQL database.
 
 ## User Story
